@@ -107,7 +107,7 @@ HEADERS += src/qt/bitcoingui.h \
     src/qt/editaddressdialog.h \
     src/qt/bitcoinaddressvalidator.h \
     src/addrman.h \
-    src/base58.h \
+    src/base58.h \25
     src/bignum.h \
     src/checkpoints.h \
     src/compat.h \
